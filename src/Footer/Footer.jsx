@@ -11,13 +11,13 @@ const Footer = () => {
             <h3 className='text-sm  md:text-2xl font-normal'>Feel free to reach out</h3>
         </div>
         <ul className='text-sm md:text-xl'>
-            <li><MdOutlineEmail sixe={20}/>
+            <li className='flex gap-3 items-center'><MdOutlineEmail sixe={20}/>
                 <a href='https://mail.google.com/mail/u/0/#all' target="_blank">ogungbeolajumoke@gmail.com</a>
             </li>
-            <li><CiLinkedin size={20}/>
+            <li className='flex gap-3 items-center'><CiLinkedin size={20}/>
                 <a href='https://www.linkedin.com/in/olajumoke-ogungbe-05381519b?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app' target="_blank">Olajumoke Ogungbe</a>
             </li>
-            <li><FaGithub size={20}/>
+            <li className='flex gap-3 items-center'><FaGithub size={20}/>
                 <a href='https://github.com/jummy16?tab=repositories' target="_blank">jummy16</a>
             </li>
         </ul>
