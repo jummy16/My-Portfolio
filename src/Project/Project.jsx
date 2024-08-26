@@ -3,6 +3,7 @@ import ProjectCard from './ProjectCard'
 import yt from '../assets/yt.png'
 import e_commerce from '../assets/e-commerce.png'
 import wedding from '../assets/wedding.png'
+import './project.css'
 
 const Project = () => {
   return (
@@ -23,6 +24,7 @@ const Project = () => {
               title="Wedding Website"
               main="A wedding website sample built with HTML, CSS and other library"/>
         </div>
+            <a href='https://github.com/jummy16?tab=repositories' target="_blank"><button className='project-btn duration-100 hover:scale-105 font-semibold rounded-3xl bg-[#465697]'>View More </button></a>
     </div>
   )
 }
