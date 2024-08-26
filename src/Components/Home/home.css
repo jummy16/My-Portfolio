@@ -1,5 +1,9 @@
-.section-img{
-  width: 80%;
+.section{
+  width: 50%;
+}
+.section img{
+  width: 50%;
+  margin-top: -5rem;
 }
 .whatsapp-float{
     position: fixed;
@@ -23,5 +27,14 @@
     height: 100%;
     border-radius: 30px;
   }
-
+@media (max-width:900px) {
+  .section{
+    width: 50%;
+  }
+  .section img{
+    margin-top: 1rem;
+    width: 100%;
+  }
+  
+}
   

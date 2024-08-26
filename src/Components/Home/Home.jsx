@@ -20,8 +20,8 @@ const Home = () => {
             </button>
             
         </div>
-        <div>
-            <img className='section-img' src={Picture} alt=''/>
+        <div className='section'>
+            <img  src={Picture} alt=''/>
         </div>
     </div>
         <div class="whatsapp-float animate__animated animate__pulse animate__infinite	infinite">
