@@ -1,0 +1,9 @@
+@media (max-width:900px) {
+    .navbar{
+        width: 100%;
+    }
+    .navbar ul{
+        width: 100%;
+    }
+    
+}
