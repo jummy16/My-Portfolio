@@ -1,5 +1,5 @@
 import React from 'react'
-import image from '../../assets/IMG_5110-removebg-preview.png'
+import image from '../../assets/DSC_8844-removebg-preview.png'
 import { IoArrowForward } from 'react-icons/io5'
 import './about.css'
 

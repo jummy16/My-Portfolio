@@ -1,6 +1,6 @@
 import React from 'react'
 import './home.css'
-import Picture from '../../assets/Snapchat-1445107236-removebg-preview.png'
+import Picture from '../../assets/DSC_8833-removebg-preview.png'
 import whatsapp from '../../assets/whatsapp-logo-3-1.png'
 import call from '../../assets/call-icon.png'
 import TextChange from '../TextChange'
