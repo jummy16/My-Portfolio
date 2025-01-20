@@ -1,5 +1,5 @@
 import React from 'react'
-import { FaBootstrap, FaCss3, FaGoogle, FaHtml5, FaJs, FaReact } from 'react-icons/fa'
+import { FaBootstrap, FaCss3, FaGoogle, FaHtml5, FaJs, FaReact, FaVuejs, FaWordpress } from 'react-icons/fa'
 import Appclick from '../../assets/Appclick-removebg-preview.png'
 import { SiSololearn } from 'react-icons/si'
 
@@ -24,6 +24,12 @@ const Skills = () => {
           </span>
           <span className='p-3 bg-zinc-950 flex items-center rounded-2xl'>
               <FaBootstrap color='#E34F26' size={50}/>
+          </span>
+          <span className='p-3 bg-zinc-950 flex items-center rounded-2xl'>
+              <FaVuejs color='#E34F26' size={50}/>
+          </span>
+          <span className='p-3 bg-zinc-950 flex items-center rounded-2xl'>
+              <FaWordpress color='#E34F26' size={50}/>
           </span>
         </div>
         <div>
